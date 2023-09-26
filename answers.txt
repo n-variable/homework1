@@ -1,0 +1,2 @@
+What is a remote repository?
+A place on the internet that hosts your project code and its change history such that you can fetch and put code.
